@@ -1,16 +1,41 @@
-# React + Vite
+# TaskFlow AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistema de produtividade com interface moderna para gerenciamento inteligente de tarefas.
 
-Currently, two official plugins are available:
+## Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O TaskFlow AI foi desenvolvido para ajudar usuários a organizar tarefas, acompanhar produtividade e melhorar a clareza das atividades com apoio de uma funcionalidade de IA simulada.
 
-## React Compiler
+O projeto foi pensado com foco em experiência do usuário, visual moderno e funcionalidades que simulam um sistema real de mercado.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Funcionalidades
 
-## Expanding the ESLint configuration
+- Cadastro de tarefas
+- Edição e exclusão
+- Marcação de conclusão
+- Filtro por status e prioridade
+- Busca por tarefas
+- Dashboard com métricas
+- Gráfico de produtividade
+- Modo escuro
+- Persistência com LocalStorage
+- Sugestão inteligente com IA simulada
+- Modal de confirmação
+- Toast de feedback
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologias utilizadas
+
+- React
+- JavaScript
+- CSS3
+- LocalStorage
+- Vite
+
+## Interface
+
+O sistema conta com:
+- Dashboard de produtividade
+- Cards com métricas
+- Gráfico visual
+- Layout responsivo
+- Interface moderna com tema claro e escuro
